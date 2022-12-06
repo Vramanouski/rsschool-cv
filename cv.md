@@ -21,3 +21,4 @@ Not yet
 * English level - B2
 * Belarusian - Native
 * Russian - Native
+* Spanish - None
