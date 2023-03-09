@@ -15,7 +15,7 @@ I'm 28 years old and I want to learn something new. I have no coding experience,
 8 years as a Lawyer/Manager.
 
 ## Education and courses:
-Not yet
+RS School - Stage 0 - March 2023
 
 ## Language:
 * English level - B2
