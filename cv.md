@@ -18,6 +18,6 @@ I'm 28 years old and I want to learn something new. I have no coding experience,
 RS School - Stage 0 - March 2023
 
 ## Language:
-* English level - B2
+* English level - C1
 * Belarusian - Native
 * Russian - Native
